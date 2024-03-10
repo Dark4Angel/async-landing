@@ -3,7 +3,7 @@ const content=null||document.getElementById('content');
 const options={
       method:'GET',headers:{
     'X-RapidAPI-Host':'youtube-v31.p.rapidapi.com',
-    'X-RapidAPI-Key':'c68edbdba9mshc3cb6eb8038f3b2p1f444ajsna5de19fe1256'
+    'X-RapidAPI-Key':'UC4rV9HI92aAarCxKMjG6VmA'
   }
 };
     
